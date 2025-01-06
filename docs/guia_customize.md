@@ -1,4 +1,4 @@
-# <center>PERSONLAIZACIÓN</center>
+# <center>PERSONALIZACIÓN</center>
 
 > ¿Cómo puedo personalizar mi perfil de IIDX?
 
