@@ -1,13 +1,42 @@
-# My MkDocs Project
 
-Welcome to the My MkDocs Project documentation!
+Guía de uso general de tarjta y otras funciones avanzadas
+= 
 
-This project is designed to help you understand how to use MkDocs with the Material theme. Below are links to various sections of the documentation:
+> - **Hecha para beatmania IIDX 30 RESIDENT y posteriores**
+> - Comunidad beatmania IIDX Chile - Entretenimientos Diana
+> - Ultima actualizacion: 06-01-2025
 
-- [Getting Started](getting-started.md)
-- [Configuration](configuration.md)
-- [Usage](usage.md)
-- [Contributing](contributing.md)
-- [Customize Test](guia_customize.md)
 
-Feel free to explore the documentation and reach out if you have any questions!
+En esta guía revisaremos las preguntas más frecuentes de los jugadores
+que planean jugar de forma más dedicada. Hay muchas funciones que son
+bastante complejas y/o no se entienden, ya que el juego utiliza de mayor
+forma el idioma japonés. De antemano, en caso de cualquier duda, pueden
+contactarme por Discord (ID: osutaiko) o pueden realizar consultas y/o
+sugerencias en el servidor oficial de Discord, de la comunidad de
+beatmania IIDX en Chile, utilizando el siguiente link:
+
+<center>
+[Unete a nuestro servidor de Discord! :simple-discord:  ](https://discord.gg/DGuZh7ZfUa){ .md-button .md-button--primary }
+
+</center>
+---
+A continuación, puedes clickear la opción que quieras consultar:
+
+- [**[¿Cuáles son las opciones del juego?. ¿Para qué sirven y cómo puedo
+cambiarlas?]**](guia_options.md)
+
+- [**[¿Cómo puedo crear mi propio perfil para jugar en
+Diana?]**](guia_profile.md)
+
+- [**[¿Cómo puedo personalizar mi perfil de
+IIDX?]**](guia_customize.md)
+
+- [**[¿Qué son los rivales?. ¿Cómo puedo utilizar esta
+función?]**](guia_rivals.md)
+
+- [**[¡Quiero compartir mis puntajes con el bot!. ¿Cómo puedo
+hacerlo?]**](guia_score.md)
+
+Planificamos además poco a poco ir agregando más información a esta
+guía, según el feedback que nos vayan entregando los mismos jugadores.
+
