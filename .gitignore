@@ -1,0 +1,38 @@
+# Ignorar la carpeta de salida generada por MkDocs
+/site/
+
+# Archivos y carpetas temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración de entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Configuración del entorno de desarrollo y variables de entorno
+*.env
+.env.*
+
+# Archivos y carpetas de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración de editores/IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Archivos de logs y cachés
+*.log
+*.cache
+
+# Otros archivos temporales
+*.tmp
+*.temp
+*.~*
