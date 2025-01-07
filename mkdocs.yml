@@ -1,4 +1,4 @@
-site_name: My MkDocs Project
+site_name: Guía beatmania IIDX Chile
 theme:
   name: material
   palette:
@@ -22,4 +22,45 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 nav:
-  - Home: index.md
+  - "Página de inicio": index.md
+  - "Índice":
+    - "Opciones del juego": guia_options.md
+    - "Creación de perfil": guia_profile.md
+    - "Personalización de perfil": guia_customize.md
+    - "Rivales": guia_rivals.md
+    - "Compartir puntajes": guia_score.md
+
+
+markdown_extensions:
+
+  # Python Markdown
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+
+  # Python Markdown Extensions
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde

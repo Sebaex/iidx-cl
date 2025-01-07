@@ -1,13 +1,14 @@
-# <center>PERSONLAIZACIÓN</center>
+# <center>PERSONALIZACIÓN</center>
 
-> ¿Cómo puedo personalizar mi perfil de IIDX?
+!!! question "Preguntas a responder"
+    ¿Cómo puedo personalizar mi perfil de IIDX?
 
 Ya que tenemos el perfil listo, podemos registrarnos en el servidor y
 acceder a más ventajas!
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
-# <center>¿CÓMO PUEDO PERSONALIZAR MI PERFIL?</center>
+## <center>PERSONALIZAR PERFIL</center>
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 

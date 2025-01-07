@@ -1,24 +1,25 @@
+# <center>OPCIONES Y OTROS</center>
+
+
+!!! question "Preguntas a responder"
+    - ¿Cuáles son las opciones del juego?. ¿Para qué sirven y cómo puedo cambiarlas?
+    - ¿Quieres cambiar el tipo de chart?, ¿viste que alguien ajustó el timing y también quieres hacerlo?
+
+A continuación hablaremos sobre las opciones disponibles, cómo afectan a tu juego y cómo usarlas a tu favor.
+  
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
-
-# <center>¿CUÁLES SON LAS OPCIONES DEL JUEGO Y CÓMO ACCEDO A ELLAS?</center>
+## <center>COMO CAMBIAR OPCIONES Y OTRAS COSAS</center>
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
-
-
-
-
-> ¿Cuáles son las opciones del juego?. ¿Para qué sirven y cómo puedo
-cambiarlas?
-
-> ¿Quieres cambiar el tipo de chart?, ¿viste que alguien ajustó el timing
-y también quieres hacerlo?. A continuación hablaremos sobre las opciones
-disponibles, cómo afectan a tu juego y cómo usarlas a tu favor.
 
 En el menú de selección de canción, al apretar el botón **START** te
 encontrarás con lo siguiente:
 
-![](media/image12.png)
+<figure markdown="span">
+  ![Imagen 12](media/image12.png)
+  <figcaption></figcaption>
+</figure>
 
 -   Usando la teclera, puedes usar los botones según el esquema que nos
     muestra en la imagen.
@@ -40,23 +41,29 @@ encontrarás con lo siguiente:
     trae las opciones esenciales para comenzar a familiarizarse con el
     juego.
 
-> [!TIP]
-> Si ya eres un jugador más experimentado, o simplemente eres curioso, puedes acceder al menú de opciones avanzadas presionando el botón EFFECT en la parte frontal de la máquina:
-<br>
+!!! tip "Consejo"
+    Si ya eres un jugador más experimentado, o simplemente eres curioso, puedes acceder al menú de opciones avanzadas presionando el botón EFFECT en la parte frontal de la máquina:
 
-![](media/image30.png)
+<figure markdown="span">
+  ![Imagen 30](media/image30.png)
+  <figcaption></figcaption>
+</figure>
 
 Con esto podremos abrir el menú de opciones avanzado y nos encontraremos
 con la siguiente pantalla:
 
-![](media/image24.png)
+<figure markdown="span">
+  ![Imagen 24](media/image24.png)
+  <figcaption></figcaption>
+</figure>
 
 ___
 Iremos explicando por partes cómo funciona cada opción a continuación:
 
-## Tecla 1-2: Podemos activar/desactivar la opción RANDOM o a sus variantes, las cuales explicaré rápidamente:
+### Tecla 1-2
+Podemos activar/desactivar la opción RANDOM o a sus variantes, las cuales explicaré rápidamente:
 
--   OFF: Jugaremos el chart \"original\", es decir, sin ningún cambio en
+-   OFF: Jugaremos el chart "original", es decir, sin ningún cambio en
     su orden de teclas.
 
 -   RANDOM: Las columnas se desordenarán en cualquier orden. Por
@@ -66,7 +73,7 @@ Iremos explicando por partes cómo funciona cada opción a continuación:
     la misma columna.
 
 -   R-RANDOM: Las columnas mantienen el orden de los números pero se
-    separan en \"trozos\" (incluyendo MIRROR, de lo cual hablaremos más
+    separan en "trozos" (incluyendo MIRROR, de lo cual hablaremos más
     adelante). Siguiendo el mismo ejemplo de antes, un R-RANDOM nos
     puede entregar el orden 4567123 o 3456712, por ejemplo. Si considera
     MIRROR, también puede quedar como 4321765 o 5432176.
@@ -79,9 +86,13 @@ Iremos explicando por partes cómo funciona cada opción a continuación:
 -   MIRROR: El orden del chart queda como en un espejo, es decir, de
     1234567 pasa a 7654321.
 
- ![](media/image19.png)
+<figure markdown="span">
+  ![Imagen 19](media/image19.png)
+  <figcaption></figcaption>
+</figure>
 
-## Tecla 3-4: Podemos cambiar el tipo de barra con el que jugaremos la canción a elegir:
+### Tecla 3-4
+Podemos cambiar el tipo de barra con el que jugaremos la canción a elegir:
 
 -   OFF: Jugaremos la canción con la GROOVE GAUGE, o la barra por
     defecto. Esta barra requiere un 80% como mínimo para considerar un
@@ -106,9 +117,13 @@ Iremos explicando por partes cómo funciona cada opción a continuación:
     igual que la HARD GAUGE, pero descuenta bastante más % de barra al
     perder notas.
 
-![](media/image33.png)
+<figure markdown="span">
+  ![Imagen 33](media/image33.png)
+  <figcaption></figcaption>
+</figure>
 
-## Tecla 5-6: Podemos elegir distintos tipos de \"ayuda\" mientras jugamos.
+### Tecla 5-6
+Podemos elegir distintos tipos de "ayuda" mientras jugamos.
 
 -   AUTO SCRATCH: Los discos cambiarán de color a verde y se marcarán
     automáticamente.
@@ -117,9 +132,13 @@ Iremos explicando por partes cómo funciona cada opción a continuación:
 
 -   A-SCR & LEGACY: Ambas opciones juntas (AUTO SCRATCH y LEGACY NOTE).
 
-![](media/image28.png)
+<figure markdown="span">
+  ![Imagen 28](media/image28.png)
+  <figcaption></figcaption>
+</figure>
 
-## Tecla 7: Podemos elegir distintas visualizaciones para acomodar lo mejor posible nuestro gameplay. Lo más común es utilizar SUDDEN+, o también LIFT, o ambas.
+### Tecla 7
+Podemos elegir distintas visualizaciones para acomodar lo mejor posible nuestro gameplay. Lo más común es utilizar SUDDEN+, o también LIFT, o ambas.
 
 -   SUDDEN+: Nos desplegará un LANE COVER desde la parte superior de la
     pantalla. Lo podemos ajustar manteniendo presionada la tecla START y
@@ -132,7 +151,7 @@ Iremos explicando por partes cómo funciona cada opción a continuación:
     COVER tanto en la parte superior como en la inferior.
 
 -   LIFT: Es muy similar al HIDDEN+, pero la diferencia es que moverá la
-    \"judgement line\", es decir, la línea roja donde debemos presionar
+    "judgement line", es decir, la línea roja donde debemos presionar
     las notas. Usualmente ésto se usa cuando quieres tener el gameplay
     más arriba para más comodidad a la hora de jugar.
 
@@ -144,10 +163,11 @@ dos veces, ajustamos con el disco mientras mantenemos el START y luego
 volvemos a activar SUDDEN+ presionando nuevamente el botón START dos
 veces.
 
-### PACEMAKER: Podemos activar un gráfico que se mostrará del lado opuesto de la pantalla al que estamos jugando. Se utiliza frecuentemente para comparar en tiempo real el cómo vamos jugando en comparación a lo que hayamos seleccionado.
+### PACEMAKER
+Podemos activar un gráfico que se mostrará del lado opuesto de la pantalla al que estamos jugando. Se utiliza frecuentemente para comparar en tiempo real el cómo vamos jugando en comparación a lo que hayamos seleccionado.
 
 -   PACEMAKER AAA/AA/A: Nos comparará nuestro puntaje actual contra un
-    puntaje \"esperado\" para conseguir la calificación deseada.
+    puntaje "esperado" para conseguir la calificación deseada.
 
     PACEMAKER NEXT/NEXT+: Nos comparará nuestro puntaje actual frente a
     un puntaje un poco mejor que el que ya teníamos en la canción.
@@ -164,7 +184,10 @@ veces.
 
     -   BARRA ROJA: Es el PACEMAKER que elegimos previamente.
 
-![](media/image35.png)
+<figure markdown="span">
+  ![Imagen 35](media/image35.png)
+  <figcaption></figcaption>
+</figure>
 
 Además, puedes presionar la tecla START del lado contrario para cambiar
 la posición del gráfico. Es decir, si juegas en el PLAYER 1 (lado
@@ -172,4 +195,7 @@ izquierdo) puedes presionar la tecla START del PLAYER 2 para cambiar el
 gráfico de posición y viceversa. El gráfico en otra posición queda tal
 cual lo muestra la siguiente imagen:
 
-![](media/image15.png)
+<figure markdown="span">
+  ![Imagen 15](media/image15.png)
+  <figcaption></figcaption>
+</figure>

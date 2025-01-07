@@ -1,6 +1,8 @@
 # <center>PERFILES</center>
 
-> ¿Cómo puedo crear mi propio perfil para jugar en Diana?
+!!! question "Preguntas a responder"
+    - ¿Cómo puedo crear mi propio perfil para jugar en Diana?
+
 
 Aquí te daremos una breve explicación sobre cómo crear tu perfil para
 jugar en el IIDX de Diana. Crear tu perfil trae muchos beneficios, entre
@@ -18,7 +20,7 @@ A continuación dejamos una guía sobre los pasos a seguir:
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
-## <center> **¿QUÉ TARJETA PUEDO OCUPAR EN LA MÁQUINA?**</center>
+## <center> **TIPOS DE TARJETAS VALIDAS**</center>
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
@@ -34,7 +36,7 @@ tarjetas en específico, entre ellas, te sugerimos las siguientes:
 ---
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
-## <center>¿CÓMO REGISTRO MI PERFIL?</center>
+## <center>REGISTRAR PERFIL</center>
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
@@ -91,8 +93,8 @@ algunas sugerencias de lugares fuera de Japón que salen en la tabla:
 | ニュージーランド  | **Nueva Zelanda**                  |
 | 海外              | **Extranjero**                     |
 
-> [!NOTE]
-> El restos de los nombres que aparecen en el juego son solo ciudades que hay en Japón.
+!!! info "Info adicional"
+    El restos de los nombres que aparecen en el juego son solo ciudades que hay en Japón.
 
 
 Como dijimos antes, en nuestro caso esto no tiene ninguna utilidad y sólo

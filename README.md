@@ -1,6 +1,23 @@
-# My MkDocs Project
+# iidxcl guide
 
-This is a MkDocs project using the Material theme. Below are the instructions for setting up and using the project.
+This is a guide based on MkDocs that has the purpose of providing information about instructions to do several things.
+
+## Table of Contents
+- [iidxcl guide](#iidxcl-guide)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Setup Instructions](#setup-instructions)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+
+## Features
+
+List the key features of the guide, such as:
+- Well-structured documentation
+- Easy navigation
+- Search functionality
+
 
 ## Setup Instructions
 

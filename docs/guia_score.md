@@ -1,14 +1,13 @@
 # <center>FERVIDEX</center>
 
-> ¡Quiero compartir mis puntajes con el bot!. ¿Cómo puedo hacerlo?
+!!! question "Preguntas a responder"
+    ¡Quiero compartir mis puntajes con el bot!. ¿Cómo puedo hacerlo?
 
 Te explicaremos cómo puedes utilizar el bot que envía puntajes en
-#⁠scores, en nuestro servidor de Discord . Realizaremos la guía completa
-desde cero. 
+\#⁠scores, en nuestro servidor de Discord . Realizaremos la guía completa desde cero. 
 
-> [!NOTE]
-> Si ya tienes cuenta en Fervidex, puedes saltar directamente
-[a este paso](#poner_tag).
+!!! note "Ojito"
+    Si ya tienes cuenta en Fervidex, puedes saltar directamente [a este paso](#compartir-puntajes-desde-fervidex).
 
 Es requisito que primero juegues en el cab, ya que el enlace para
 registrarse exige esto como requisito básico. Luego de haber jugado (y
@@ -31,12 +30,14 @@ en la parte superior. Seleccionaremos la que tiene ícono de tuerca.
 
 ![](media/image25.png)
 
-Nos dirigiremos a la opción de \"Card sharing\".
+## Compartir puntajes desde fervidex
+
+Nos dirigiremos a la opción de "Card sharing".
 
 ![](media/image7.png)
 
 Debemos comprobar que nuestra tarjeta está correctamente enlazada con el
-arcade \"Entretenimientos Diana\" en el apartado de Sharing with others.
+arcade "Entretenimientos Diana" en el apartado de Sharing with others.
 Si ésto ya está listo, podemos seguir adelante. De lo contrario, debemos
 seleccionarlo con el buscador y presionar Share.
 
@@ -65,18 +66,10 @@ keypad.
 
 ![](media/image34.png)
 
-> [!IMPORTANT]
-> Algunos puntos a considerar:
-> - Cada resultado que envíes será público para todo el servidor. Te
-    pedimos **por favor** que seas consciente y no spamees puntajes a lo
-    loco. Apelamos a tu criterio para utilizar esta función
-    responsablemente.
-> - El puntaje que aparezca como **best score** será el mejor puntaje
-    que tengas en Fervidex. Si alimentas esta plataforma con puntajes de
-    otro lado, ésta siempre mostrará el mejor puntaje que tenga en su
-    base de datos y no el que tengas en CG/Diana.
-> - **El uso desmedido y/o malintencionado de esta función implica sanciones por parte del staff.**
-<br>
+!!! warning "Algunos puntos a considerar"
+    - Cada resultado que envíes será público para todo el servidor. Te pedimos **por favor** que seas consciente y no spamees puntajes a lo loco. Apelamos a tu criterio para utilizar esta función responsablemente.
+    - El puntaje que aparezca como **best score** será el mejor puntaje que tengas en Fervidex. Si alimentas esta plataforma con puntajes de otro lado, ésta siempre mostrará el mejor puntaje que tenga en su base de datos y no el que tengas en CG/Diana.
+    - **El uso desmedido y/o malintencionado de esta función implica sanciones por parte del staff.**
 
-> [!TIP]
-> Si necesitas ayuda durante este proceso, no dudes en consultarlo con la comunidad! Todos estamos aquí para ayudar al resto.
+!!! success "Tip"
+    Si necesitas ayuda durante este proceso, no dudes en consultarlo con la comunidad! Todos estamos aquí para ayudar al resto.

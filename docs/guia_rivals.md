@@ -1,6 +1,7 @@
 # <center>RIVALES</center>
 
-> ¿Qué son los rivales?. ¿Cómo puedo utilizar esta función?
+!!! question "Preguntas a responder"
+    ¿Qué son los rivales?. ¿Cómo puedo utilizar esta función?
 
 Ya que nos registramos en la página (WEBUI) del servidor, podemos
 utilizar la función de RIVALS. Ésto nos permite agregar a otros
@@ -10,7 +11,7 @@ canción del juego.
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
-## <center>¿CÓMO PUEDO AGREGAR RIVALES?</center>
+## <center>AÑADIR RIVALES</center>
 
 <center>━━━━━━━━━━━━━━━━━ ◦ ❖ ◦ ━━━━━━━━━━━━━━━━━</center>
 
