@@ -22,20 +22,20 @@ beatmania IIDX en Chile, utilizando el siguiente link:
 ---
 A continuación, puedes clickear la opción que quieras consultar:
 
-- [**[¿Cuáles son las opciones del juego?. ¿Para qué sirven y cómo puedo
-cambiarlas?]**](guia_options.md)
+- [**¿Cuáles son las opciones del juego?. ¿Para qué sirven y cómo puedo
+cambiarlas?**](opciones.md)
 
-- [**[¿Cómo puedo crear mi propio perfil para jugar en
-Diana?]**](guia_profile.md)
+- [**¿Cómo puedo crear mi propio perfil para jugar en
+Diana?**](perfil.md)
 
-- [**[¿Cómo puedo personalizar mi perfil de
-IIDX?]**](guia_customize.md)
+- [**¿Cómo puedo personalizar mi perfil de
+IIDX?**](personalizacion.md)
 
-- [**[¿Qué son los rivales?. ¿Cómo puedo utilizar esta
-función?]**](guia_rivals.md)
+- [**¿Qué son los rivales?. ¿Cómo puedo utilizar esta
+función?**](rivales.md)
 
-- [**[¡Quiero compartir mis puntajes con el bot!. ¿Cómo puedo
-hacerlo?]**](guia_score.md)
+- [**¡Quiero compartir mis puntajes con el bot!. ¿Cómo puedo
+hacerlo?**](puntajes_bot.md)
 
 Planificamos además poco a poco ir agregando más información a esta
 guía, según el feedback que nos vayan entregando los mismos jugadores.

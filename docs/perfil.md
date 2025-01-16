@@ -60,7 +60,7 @@ que cada vez que pongas tu tarjeta debes introducir tu PIN para ingresar
 a tu perfil.
 
 Además, te sugerimos tomarle una foto al código de 16 dígitos que sale
-bajo el PIN (el que sale descrito como \"**user code**\"), ya que lo
+bajo el PIN (el que sale descrito como **user code**), ya que lo
 utilizaremos más tarde en otro proceso.
 
 ![](media/image21.png)
@@ -80,6 +80,8 @@ Luego escogemos el área a la que pertenecemos, aunque ésto no se utiliza
 mucho en nuestro caso. Esta parte no está traducida, por ende te dejamos
 algunas sugerencias de lugares fuera de Japón que salen en la tabla:
 
+![](media/image3.png)
+
 | Nombre en Japonés | Traducción                         |
 | ----------------- | ---------------------------------- |
 | 韓国              | **Corea / Corea del sur**          |
@@ -93,14 +95,9 @@ algunas sugerencias de lugares fuera de Japón que salen en la tabla:
 | ニュージーランド  | **Nueva Zelanda**                  |
 | 海外              | **Extranjero**                     |
 
+
 !!! info "Info adicional"
     El restos de los nombres que aparecen en el juego son solo ciudades que hay en Japón.
-
-
-Como dijimos antes, en nuestro caso esto no tiene ninguna utilidad y sólo
-funciona como decoración.
-
-![](media/image3.png)
 
 Finalmente, luego de crear tu perfil ya ingresas a la parte de selección
 de modos. Si estás recien comenzando, puedes jugar el modo de STEP-UP,

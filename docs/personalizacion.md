@@ -43,9 +43,9 @@ Llenamos la información que aparece en la imagen:
 
 <!-- -->
 
--   Una vez nos registramos y activamos nuestra cuenta, procedemos a
-    ingresar a nuestra cuenta utilizando la pantalla de Login. Luego de
-    eso, podremos ver la página:
+Una vez nos registramos y activamos nuestra cuenta, procedemos a
+ingresar a nuestra cuenta utilizando la pantalla de Login. Luego de
+eso, podremos ver la página:
 
 ![](media/image17.png)
 
@@ -57,7 +57,7 @@ ingresar a la opción de BEATMANIA IIDX y luego a Customize.
 ## Personalización general 
 
 Lo primero que debemos hacer es revisar que estamos en el juego
-correcto. Actualmente estamos utilizando el IIDX 30 RESIDENT. Luego de
+correcto. Actualmente estamos utilizando beatmania IIDX 30 RESIDENT. Luego de
 eso, nos encontramos con THEME SETTINGS. Podemos cambiar las opciones a
 nuestro antojo, como también para guiarnos podemos utilizar el preview
 que muestra a la derecha.
@@ -72,7 +72,7 @@ etc.
 También tenemos el Opt-In unlock, el cual te permite jugar los eventos y
 desbloquear los temas, tal cual funciona en el servidor oficial.
 
-Finalmente, en esta sección, tenemos las CATEGORY y PRIVACY SETTINGS,
+Al igual que tenemos las CATEGORY y PRIVACY SETTINGS,
 las cuales más que nada tienen que ver con los RIVALS, de lo cual
 hablaremos más adelante.
 

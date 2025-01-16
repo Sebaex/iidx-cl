@@ -24,11 +24,11 @@ theme:
 nav:
   - "Página de inicio": index.md
   - "Índice":
-    - "Opciones del juego": guia_options.md
-    - "Creación de perfil": guia_profile.md
-    - "Personalización de perfil": guia_customize.md
-    - "Rivales": guia_rivals.md
-    - "Compartir puntajes": guia_score.md
+    - "Opciones del juego": opciones.md
+    - "Creación de perfil": perfil.md
+    - "Personalización de perfil": personalizacion.md
+    - "Rivales": rivales.md
+    - "Compartir puntajes": puntajes_bot.md
 
 
 markdown_extensions:
